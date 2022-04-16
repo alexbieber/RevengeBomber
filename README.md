@@ -46,7 +46,7 @@ Before continuing make sure following requirements are satisfied:
 Install `revengrbomber` package by running:
 
 ```shell script
-pip3 install tbomb
+pip3 install revengebomber
 ```
 
 Run RevengeBomber by just typing:
