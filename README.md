@@ -5,12 +5,10 @@
   <br>
   <a href="https://github.com/AlexBieber/RevengeBomber"><img src="https://horoshop.ua/content/images/16/kak-sdelat-chtoby-pisma-ne-popadali-v-spam-11248663734326.jpg" alt="RevengeBomber"></a>
   <br>
-  RevengeBomber v1.0
+  RevengeBomber🔴🔴🔴🔴
   <br>
 </h1>
 
-
-<p align="center">A free and open-source SMS/Call bombing application</p>
 
 
 ## Compatibility
